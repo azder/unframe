@@ -1,0 +1,12 @@
+{
+    "license": "LGPL 3.0", 
+    "name": "unframe", 
+    "contributors": [
+        "gdamjan"
+    ], 
+    "author": "azder", 
+    "version": "0.4", 
+    "fullName": "Unframe .mk", 
+    "id": "jid0-mBNrrbcaqRruZSJbkONlW0xuW5Y@jetpack", 
+    "description": "Removes the top bars of some .mk sites by replacing the page with the IFRAME contents"
+}
