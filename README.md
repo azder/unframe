@@ -10,3 +10,7 @@ while providing no desired features.
 This add-on tries to find out the embedded IFRAME's source 
 and redirect the browser to that URL, 
 thus removing the undesired panels.
+
+The addon is posted at the
+[Add-ons for Firefox](https://addons.mozilla.org/en-US/firefox/addon/unframe/)
+site
